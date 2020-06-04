@@ -1,5 +1,5 @@
 const vars = {
-  googleApiKey: "",
+  googleApiKey: "API_KEY",
 };
 
 export default vars;
